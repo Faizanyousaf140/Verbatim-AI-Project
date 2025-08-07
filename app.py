@@ -17,6 +17,7 @@ st.set_page_config(
 import os
 os.environ['STREAMLIT_SERVER_MAX_UPLOAD_SIZE'] = '1024'
 
+
 import sys
 import json
 from datetime import datetime
@@ -223,7 +224,16 @@ if 'nltk_downloaded' not in st.session_state:
     st.session_state.nltk_downloaded = True
 
 # Configure AssemblyAI with user's API key
-aai.settings.api_key = ASSEMBLYAI_API_KEY
+if ASSEMBLYAI_AVAILABLE and aai and ASSEMBLYAI_API_KEY:
+    try:
+        aai.settings.api_key = ASSEMBLYAI_API_KEY
+        print("✅ AssemblyAI API key configured successfully")
+    except Exception as e:
+        print(f"❌ Error configuring AssemblyAI API key: {e}")
+        ASSEMBLYAI_AVAILABLE = False
+elif not ASSEMBLYAI_API_KEY:
+    print("⚠️ AssemblyAI API key not found in environment variables")
+    ASSEMBLYAI_AVAILABLE = False
 
 # Initialize email summary generator globally
 email_generator = None
@@ -828,6 +838,10 @@ class VerbatimAI:
     def verify_api_key(self):
         """Verify AssemblyAI API key is valid"""
         try:
+            # Check if AssemblyAI is available
+            if not ASSEMBLYAI_AVAILABLE or not aai:
+                return False
+            
             # Test API key with a simple request
             transcriber = aai.Transcriber()
             # This will fail if API key is invalid, but we can catch the error
@@ -840,6 +854,11 @@ class VerbatimAI:
     def transcribe_audio(self, audio_file, config=None):
         """Transcribe audio using AssemblyAI with improved error handling"""
         try:
+            # Check if AssemblyAI is available
+            if not ASSEMBLYAI_AVAILABLE or not aai:
+                st.error("❌ AssemblyAI is not available. Please install the assemblyai package and configure your API key.")
+                return None
+            
             # Verify API key first
             if not self.verify_api_key():
                 st.error("❌ Invalid AssemblyAI API key. Please check your configuration.")
@@ -4798,7 +4817,10 @@ def show_system_settings():
         st.write(f"**Python Version:** {sys.version}")
         st.write(f"**Streamlit Version:** {st.__version__}")
         try:
-            st.write(f"**AssemblyAI SDK:** {aai.__version__}")
+            if ASSEMBLYAI_AVAILABLE and aai:
+                st.write(f"**AssemblyAI SDK:** {aai.__version__}")
+            else:
+                st.write("**AssemblyAI SDK:** Not available")
         except AttributeError:
             st.write("**AssemblyAI SDK:** Version info not available")
         
