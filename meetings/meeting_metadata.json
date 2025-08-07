@@ -1,0 +1,450 @@
+{
+  "meeting_20250804_161021": {
+    "title": "Meeting - 2025-08-04 16:10",
+    "date": "2025-08-04",
+    "duration": 0.0003,
+    "participants": [
+      "Speaker A"
+    ],
+    "file_path": "meetings\\meeting_20250804_161021.json",
+    "created_at": "2025-08-04T16:10:21.573208",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 105,
+    "id": "meeting_20250804_161021"
+  },
+  "meeting_20250804_165841": {
+    "title": "Meeting - 2025-08-04 16:58",
+    "date": "2025-08-04",
+    "duration": 0.004233333333333334,
+    "participants": [
+      "Speaker C",
+      "Speaker A",
+      "Speaker B"
+    ],
+    "file_path": "meetings\\meeting_20250804_165841.json",
+    "created_at": "2025-08-04T16:58:41.195696",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 2682,
+    "id": "meeting_20250804_165841"
+  },
+  "meeting_20250805_105603": {
+    "title": "Meeting - 2025-08-05 10:56",
+    "date": "2025-08-05",
+    "duration": 0.004233333333333334,
+    "participants": [
+      "Speaker C",
+      "Speaker A",
+      "Speaker B"
+    ],
+    "file_path": "meetings\\meeting_20250805_105603.json",
+    "created_at": "2025-08-05T10:56:03.368464",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 2682,
+    "id": "meeting_20250805_105603"
+  },
+  "meeting_20250805_115119": {
+    "title": "Meeting - 2025-08-05 11:51",
+    "date": "2025-08-05",
+    "duration": 0.00165,
+    "participants": [
+      "Speaker A",
+      "Speaker C",
+      "Speaker D",
+      "Speaker B"
+    ],
+    "file_path": "meetings\\meeting_20250805_115119.json",
+    "created_at": "2025-08-05T11:51:19.767461",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 1884,
+    "id": "meeting_20250805_115119"
+  },
+  "meeting_20250805_150440": {
+    "title": "Meeting - 2025-08-05 15:04",
+    "date": "2025-08-05",
+    "duration": 0.00165,
+    "participants": [
+      "Speaker C",
+      "Speaker A",
+      "Speaker D",
+      "Speaker B"
+    ],
+    "file_path": "meetings\\meeting_20250805_150440.json",
+    "created_at": "2025-08-05T15:04:40.164858",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 1884,
+    "id": "meeting_20250805_150440"
+  },
+  "meeting_20250805_152228": {
+    "title": "Meeting - 2025-08-05 15:22",
+    "date": "2025-08-05",
+    "duration": 0.00165,
+    "participants": [
+      "Speaker C",
+      "Speaker A",
+      "Speaker D",
+      "Speaker B"
+    ],
+    "file_path": "meetings\\meeting_20250805_152228.json",
+    "created_at": "2025-08-05T15:22:28.552419",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 1884,
+    "id": "meeting_20250805_152228"
+  },
+  "meeting_20250805_155614": {
+    "title": "Meeting - 2025-08-05 15:56",
+    "date": "2025-08-05",
+    "duration": 0.004233333333333334,
+    "participants": [
+      "Speaker C",
+      "Speaker A",
+      "Speaker B"
+    ],
+    "file_path": "meetings\\meeting_20250805_155614.json",
+    "created_at": "2025-08-05T15:56:14.862443",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 2682,
+    "id": "meeting_20250805_155614"
+  },
+  "meeting_20250805_161833": {
+    "title": "Meeting - 2025-08-05 16:18",
+    "date": "2025-08-05",
+    "duration": 0.00165,
+    "participants": [
+      "Speaker A",
+      "Speaker B",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "file_path": "meetings\\meeting_20250805_161833.json",
+    "created_at": "2025-08-05T16:18:33.636577",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 1884,
+    "id": "meeting_20250805_161833"
+  },
+  "meeting_20250805_163143": {
+    "title": "Meeting - 2025-08-05 16:31",
+    "date": "2025-08-05",
+    "duration": 0.00165,
+    "participants": [
+      "Speaker A",
+      "Speaker C",
+      "Speaker B",
+      "Speaker D"
+    ],
+    "file_path": "meetings\\meeting_20250805_163143.json",
+    "created_at": "2025-08-05T16:31:43.654981",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 1884,
+    "id": "meeting_20250805_163143"
+  },
+  "meeting_20250806_105255": {
+    "title": "Meeting - 2025-08-06 10:52",
+    "date": "2025-08-06",
+    "duration": 0.00165,
+    "participants": [
+      "Speaker D",
+      "Speaker B",
+      "Speaker A",
+      "Speaker C"
+    ],
+    "file_path": "meetings\\meeting_20250806_105255.json",
+    "created_at": "2025-08-06T10:52:55.427031",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 1884,
+    "id": "meeting_20250806_105255"
+  },
+  "meeting_20250806_113334": {
+    "title": "Meeting - 2025-08-06 11:33",
+    "date": "2025-08-06",
+    "duration": 0.00165,
+    "participants": [
+      "Speaker B",
+      "Speaker C",
+      "Speaker A",
+      "Speaker D"
+    ],
+    "file_path": "meetings\\meeting_20250806_113334.json",
+    "created_at": "2025-08-06T11:33:34.481069",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 1884,
+    "id": "meeting_20250806_113334"
+  },
+  "meeting_20250806_123130": {
+    "title": "Meeting - 2025-08-06 12:31",
+    "date": "2025-08-06",
+    "duration": 0.00165,
+    "participants": [
+      "Speaker D",
+      "Speaker B",
+      "Speaker A",
+      "Speaker C"
+    ],
+    "file_path": "meetings\\meeting_20250806_123130.json",
+    "created_at": "2025-08-06T12:31:30.853053",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 1884,
+    "id": "meeting_20250806_123130"
+  },
+  "meeting_20250806_123556": {
+    "title": "Meeting - 2025-08-06 12:35",
+    "date": "2025-08-06",
+    "duration": 8.333333333333333e-05,
+    "participants": [
+      "Speaker A"
+    ],
+    "file_path": "meetings\\meeting_20250806_123556.json",
+    "created_at": "2025-08-06T12:35:56.939507",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 37,
+    "id": "meeting_20250806_123556"
+  },
+  "meeting_20250806_125016": {
+    "title": "Meeting - 2025-08-06 12:50",
+    "date": "2025-08-06",
+    "duration": 0.004233333333333334,
+    "participants": [
+      "Speaker B",
+      "Speaker C",
+      "Speaker A"
+    ],
+    "file_path": "meetings\\meeting_20250806_125016.json",
+    "created_at": "2025-08-06T12:50:16.611096",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 2682,
+    "id": "meeting_20250806_125016"
+  },
+  "meeting_20250806_143954": {
+    "title": "Meeting - 2025-08-06 14:39",
+    "date": "2025-08-06",
+    "duration": 0.00165,
+    "participants": [
+      "Speaker B",
+      "Speaker A",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "file_path": "meetings\\meeting_20250806_143954.json",
+    "created_at": "2025-08-06T14:39:54.641863",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 1884,
+    "id": "meeting_20250806_143954"
+  },
+  "meeting_20250806_150346": {
+    "title": "Meeting - 2025-08-06 15:03",
+    "date": "2025-08-06",
+    "duration": 0.00165,
+    "participants": [
+      "Speaker B",
+      "Speaker A",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "file_path": "meetings\\meeting_20250806_150346.json",
+    "created_at": "2025-08-06T15:03:46.472211",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 1884,
+    "id": "meeting_20250806_150346"
+  },
+  "meeting_20250806_150948": {
+    "title": "Meeting - 2025-08-06 15:09",
+    "date": "2025-08-06",
+    "duration": 0.00165,
+    "participants": [
+      "Speaker B",
+      "Speaker A",
+      "Speaker C",
+      "Speaker D"
+    ],
+    "file_path": "meetings\\meeting_20250806_150948.json",
+    "created_at": "2025-08-06T15:09:48.586271",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 1884,
+    "id": "meeting_20250806_150948"
+  },
+  "meeting_20250806_151613": {
+    "title": "Meeting - 2025-08-06 15:16",
+    "date": "2025-08-06",
+    "duration": 0.00165,
+    "participants": [
+      "Speaker D",
+      "Speaker A",
+      "Speaker C",
+      "Speaker B"
+    ],
+    "file_path": "meetings\\meeting_20250806_151613.json",
+    "created_at": "2025-08-06T15:16:13.047448",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 1884,
+    "id": "meeting_20250806_151613"
+  },
+  "meeting_20250806_153245": {
+    "title": "Meeting - 2025-08-06 15:32",
+    "date": "2025-08-06",
+    "duration": 0.00165,
+    "participants": [
+      "Speaker A",
+      "Speaker D",
+      "Speaker C",
+      "Speaker B"
+    ],
+    "file_path": "meetings\\meeting_20250806_153245.json",
+    "created_at": "2025-08-06T15:32:45.235647",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 1884,
+    "id": "meeting_20250806_153245"
+  },
+  "meeting_20250806_154513": {
+    "title": "Meeting - 2025-08-06 15:45",
+    "date": "2025-08-06",
+    "duration": 0.00165,
+    "participants": [
+      "Speaker A",
+      "Speaker D",
+      "Speaker C",
+      "Speaker B"
+    ],
+    "file_path": "meetings\\meeting_20250806_154513.json",
+    "created_at": "2025-08-06T15:45:13.160043",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 1884,
+    "id": "meeting_20250806_154513"
+  },
+  "meeting_20250806_160630": {
+    "title": "Meeting - 2025-08-06 16:06",
+    "date": "2025-08-06",
+    "duration": 0.04546666666666667,
+    "participants": [
+      "Speaker F",
+      "Speaker A",
+      "Speaker D",
+      "Speaker G",
+      "Speaker I",
+      "Speaker C",
+      "Speaker E",
+      "Speaker B",
+      "Speaker H"
+    ],
+    "file_path": "meetings\\meeting_20250806_160630.json",
+    "created_at": "2025-08-06T16:06:30.581614",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 41536
+  },
+  "meeting_20250806_162346": {
+    "title": "Meeting - 2025-08-06 16:23",
+    "date": "2025-08-06",
+    "duration": 8.333333333333333e-05,
+    "participants": [
+      "Speaker A"
+    ],
+    "file_path": "meetings\\meeting_20250806_162346.json",
+    "created_at": "2025-08-06T16:23:46.550394",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 6
+  },
+  "meeting_20250807_112326": {
+    "title": "Meeting - 2025-08-07 11:23",
+    "date": "2025-08-07",
+    "duration": 0.04546666666666667,
+    "participants": [
+      "Speaker A",
+      "Speaker D",
+      "Speaker C",
+      "Speaker F",
+      "Speaker I",
+      "Speaker B",
+      "Speaker G",
+      "Speaker H",
+      "Speaker E"
+    ],
+    "file_path": "meetings\\meeting_20250807_112326.json",
+    "created_at": "2025-08-07T11:23:26.531627",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 41531
+  },
+  "meeting_20250807_113540": {
+    "title": "Meeting - 2025-08-07 11:35",
+    "date": "2025-08-07",
+    "duration": 0.004233333333333334,
+    "participants": [
+      "Speaker B",
+      "Speaker C",
+      "Speaker A"
+    ],
+    "file_path": "meetings\\meeting_20250807_113540.json",
+    "created_at": "2025-08-07T11:35:40.636512",
+    "tags": [
+      "auto-generated"
+    ],
+    "summary_available": false,
+    "transcript_length": 2682
+  }
+}

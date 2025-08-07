@@ -1,0 +1,34 @@
+{
+  "admin": {
+    "username": "admin",
+    "role": "admin",
+    "email": "admin@verbatimai.com",
+    "created_at": "2025-08-01T16:45:39.780812",
+    "last_login": "2025-08-06T15:42:56.686380",
+    "is_active": true
+  },
+  "faizan_yousaf": {
+    "username": "faizan_yousaf",
+    "role": "admin",
+    "email": "faizanyousaf140@gmail.com",
+    "created_at": "2025-08-01T16:45:39.780812",
+    "last_login": "2025-08-07T11:33:40.317121",
+    "is_active": true
+  },
+  "ahsan_saeed": {
+    "username": "ahsan_saeed",
+    "role": "contributor",
+    "email": "ahsansaeed1094@gmail.com",
+    "created_at": "2025-08-01T16:45:39.780812",
+    "last_login": "2025-08-02T13:13:49.747450",
+    "is_active": true
+  },
+  "viewer1": {
+    "username": "viewer1",
+    "role": "viewer",
+    "email": "viewer1@company.com",
+    "created_at": "2025-08-01T16:45:39.780812",
+    "last_login": null,
+    "is_active": true
+  }
+}
