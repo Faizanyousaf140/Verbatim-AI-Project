@@ -43,3 +43,6 @@ pytz
 
 # Optional ML
 scikit-learn
+
+# AssemblyAI
+assemblyai
